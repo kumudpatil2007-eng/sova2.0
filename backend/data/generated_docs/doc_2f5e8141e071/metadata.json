@@ -1,0 +1,20 @@
+{
+  "id": "doc_2f5e8141e071",
+  "title": "Heat_Exchanger_E204_Inspection_Report Summary Report",
+  "subtitle": null,
+  "formats": [
+    "docx"
+  ],
+  "page_count": 11,
+  "files": {
+    "docx": {
+      "format": "docx",
+      "filename": "Heat_Exchanger_E204_Inspection_Report_Summary_Report.docx",
+      "download_url": "/api/documents/generated/doc_2f5e8141e071/download?format=docx",
+      "size_bytes": 40252,
+      "size_formatted": "39.3 KB",
+      "local_path": "C:\\Users\\kumud\\Downloads\\Compressed\\AI\\backend\\data\\generated_docs\\doc_2f5e8141e071\\Heat_Exchanger_E204_Inspection_Report_Summary_Report.docx"
+    }
+  },
+  "created_at": "2026-09-26T19:40:07.754595+00:00"
+}

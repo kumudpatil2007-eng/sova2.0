@@ -1,0 +1,20 @@
+{
+  "id": "doc_a80c540e80b4",
+  "title": "MRPL CDU-1 | Heat Exchanger E-204 Inspection Report",
+  "subtitle": "Equipment Integrity & Inspection Report",
+  "formats": [
+    "docx"
+  ],
+  "page_count": 6,
+  "files": {
+    "docx": {
+      "format": "docx",
+      "filename": "MRPL_CDU-1_Heat_Exchanger_E-204_Inspection_Report.docx",
+      "download_url": "/api/documents/generated/doc_a80c540e80b4/download?format=docx",
+      "size_bytes": 39768,
+      "size_formatted": "38.8 KB",
+      "local_path": "C:\\Users\\kumud\\Downloads\\Compressed\\Sova\\backend\\data\\generated_docs\\doc_a80c540e80b4\\MRPL_CDU-1_Heat_Exchanger_E-204_Inspection_Report.docx"
+    }
+  },
+  "created_at": "2026-09-27T04:13:04.247053+00:00"
+}

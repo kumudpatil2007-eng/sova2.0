@@ -1,0 +1,20 @@
+{
+  "id": "doc_1eb0e0832218",
+  "title": "Understanding Artificial Intelligence",
+  "subtitle": "A Comprehensive Guide to AI and Its Applications",
+  "formats": [
+    "docx"
+  ],
+  "page_count": 4,
+  "files": {
+    "docx": {
+      "format": "docx",
+      "filename": "Understanding_Artificial_Intelligence.docx",
+      "download_url": "/api/documents/generated/doc_1eb0e0832218/download?format=docx",
+      "size_bytes": 40131,
+      "size_formatted": "39.2 KB",
+      "local_path": "C:\\Users\\kumud\\Downloads\\Compressed\\AI\\backend\\data\\generated_docs\\doc_1eb0e0832218\\Understanding_Artificial_Intelligence.docx"
+    }
+  },
+  "created_at": "2026-09-26T18:36:46.690106+00:00"
+}

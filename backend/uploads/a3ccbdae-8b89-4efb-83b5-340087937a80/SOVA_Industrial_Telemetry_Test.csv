@@ -1,0 +1,19 @@
+timestamp,equipment_id,equipment_type,status,temperature_C,pressure_bar,rpm,vibration_mm_s,current_A,alarm_flag
+2026-09-25 09:00:00,P-101,Feed Pump,Running,72.4,8.6,1450,41.2,0.18,0
+2026-09-25 09:05:00,P-101,Feed Pump,Running,74.1,8.8,1462,41.8,0.19,0
+2026-09-25 09:10:00,P-101,Feed Pump,Running,79.8,9.4,1498,44.6,0.24,0
+2026-09-25 09:15:00,P-101,Feed Pump,Running,86.7,10.2,1541,49.8,0.41,1
+2026-09-25 09:20:00,P-101,Feed Pump,Running,91.3,10.9,1587,54.2,0.63,1
+2026-09-25 09:25:00,P-101,Feed Pump,Running,94.6,11.4,1612,57.1,0.82,1
+2026-09-25 09:30:00,P-101,Feed Pump,Trip,96.2,0.0,0,58.4,0.91,1
+2026-09-25 09:00:00,V-201,Separator Vessel,Normal,68.2,12.4,0,38.1,0.12,0
+2026-09-25 09:05:00,V-201,Separator Vessel,Normal,69.0,12.6,0,38.4,0.13,0
+2026-09-25 09:10:00,V-201,Separator Vessel,High Pressure,70.4,14.9,0,39.2,0.18,0
+2026-09-25 09:15:00,V-201,Separator Vessel,High Pressure,71.8,16.7,0,40.1,0.27,1
+2026-09-25 09:20:00,V-201,Separator Vessel,Alarm,72.6,18.2,0,41.0,0.35,1
+2026-09-25 09:25:00,V-201,Separator Vessel,Alarm,73.1,19.1,0,41.6,0.38,1
+2026-09-25 09:30:00,V-201,Separator Vessel,Alarm,73.4,19.6,0,42.0,0.4,1
+2026-09-25 09:00:00,HX-301,Heat Exchanger,Normal,112.4,6.8,0,32.4,0.08,0
+2026-09-25 09:10:00,HX-301,Heat Exchanger,Normal,116.7,7.1,0,34.2,0.09,0
+2026-09-25 09:20:00,HX-301,Heat Exchanger,Warning,128.9,7.8,0,39.7,0.21,0
+2026-09-25 09:30:00,HX-301,Heat Exchanger,Warning,134.5,8.3,0,43.5,0.31,1

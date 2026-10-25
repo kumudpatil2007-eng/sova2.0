@@ -1,0 +1,29 @@
+{
+  "id": "doc_826bc2b95a14",
+  "title": "Machine Learning Fundamentals",
+  "subtitle": "A Comprehensive Guide to Machine Learning Principles and Applications",
+  "formats": [
+    "docx",
+    "pdf"
+  ],
+  "page_count": 2,
+  "files": {
+    "docx": {
+      "format": "docx",
+      "filename": "Machine_Learning_Fundamentals.docx",
+      "download_url": "/api/documents/generated/doc_826bc2b95a14/download?format=docx",
+      "size_bytes": 40360,
+      "size_formatted": "39.4 KB",
+      "local_path": "C:\\Users\\kumud\\Downloads\\Compressed\\AI\\backend\\data\\generated_docs\\doc_826bc2b95a14\\Machine_Learning_Fundamentals.docx"
+    },
+    "pdf": {
+      "format": "pdf",
+      "filename": "Machine_Learning_Fundamentals.pdf",
+      "download_url": "/api/documents/generated/doc_826bc2b95a14/download?format=pdf",
+      "size_bytes": 6244,
+      "size_formatted": "6.1 KB",
+      "local_path": "C:\\Users\\kumud\\Downloads\\Compressed\\AI\\backend\\data\\generated_docs\\doc_826bc2b95a14\\Machine_Learning_Fundamentals.pdf"
+    }
+  },
+  "created_at": "2026-09-26T18:37:01.358566+00:00"
+}
